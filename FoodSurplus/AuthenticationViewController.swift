@@ -8,14 +8,18 @@
 
 import UIKit
 import Firebase
+import QuartzCore
 import FirebaseAuth
 
 class AuthenticationViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        
     }
     @IBOutlet weak var EmailText: UITextField!
     @IBOutlet weak var PasswordText: UITextField!
@@ -25,7 +29,6 @@ class AuthenticationViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     @IBAction func infoButton(_ sender: UIButton) {
-        
     }
     @IBOutlet weak var loginStatic: UIButton!
     @IBAction func loginSender(_ sender: UIButton) {
@@ -34,6 +37,7 @@ class AuthenticationViewController: UIViewController {
             print("wew")
         }
     }
+    @IBOutlet weak var FoodSurplus: UILabel!
     @IBOutlet weak var signupStatic: UIButton!
     @IBAction func signupSender(_ sender: Any) {
         FIRAuth.auth()?.createUser(withEmail: EmailText.text!, password: PasswordText.text!) { (user, error) in
