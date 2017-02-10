@@ -21,6 +21,11 @@
 		AD497C9E1E4AFE9500D532E9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AD497C9D1E4AFE9500D532E9 /* GoogleService-Info.plist */; };
 		AD497C9F1E4AFE9500D532E9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AD497C9D1E4AFE9500D532E9 /* GoogleService-Info.plist */; };
 		AD497CA01E4AFE9500D532E9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = AD497C9D1E4AFE9500D532E9 /* GoogleService-Info.plist */; };
+		AD497CA21E4D518800D532E9 /* InfoPopUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CA11E4D518800D532E9 /* InfoPopUpViewController.swift */; };
+		AD497CA41E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = AD497CA31E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png */; };
+		AD497CA61E4D671A00D532E9 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CA51E4D671A00D532E9 /* HomeVC.swift */; };
+		AD497CA81E4D7BA000D532E9 /* TermServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CA71E4D7BA000D532E9 /* TermServiceViewController.swift */; };
+		AD497CAA1E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = AD497CA91E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png */; };
 		C48EA4B8BA229C1B05620015 /* Pods_FoodSurplusUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27582DBD1BCCAB645CC04D64 /* Pods_FoodSurplusUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -65,6 +70,11 @@
 		AD497C951E4AD4BD00D532E9 /* AuthenticationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthenticationViewController.swift; sourceTree = "<group>"; };
 		AD497C971E4AD7BB00D532E9 /* MB_0011_info3 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MB_0011_info3 (1).png"; sourceTree = "<group>"; };
 		AD497C9D1E4AFE9500D532E9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		AD497CA11E4D518800D532E9 /* InfoPopUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoPopUpViewController.swift; sourceTree = "<group>"; };
+		AD497CA31E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-02-09 at 6.31.02 PM.png"; sourceTree = "<group>"; };
+		AD497CA51E4D671A00D532E9 /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		AD497CA71E4D7BA000D532E9 /* TermServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermServiceViewController.swift; sourceTree = "<group>"; };
+		AD497CA91E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-02-09 at 9.03.32 PM.png"; sourceTree = "<group>"; };
 		AE5A34B3C3E09FDFA603DDEA /* Pods-FoodSurplusTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplusTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplusTests/Pods-FoodSurplusTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C8FE0F2F31B81F759A853904 /* Pods-FoodSurplus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplus.release.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplus/Pods-FoodSurplus.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -135,9 +145,14 @@
 				AD497C671E4AD41E00D532E9 /* AppDelegate.swift */,
 				AD497C691E4AD41E00D532E9 /* ViewController.swift */,
 				AD497C951E4AD4BD00D532E9 /* AuthenticationViewController.swift */,
+				AD497CA11E4D518800D532E9 /* InfoPopUpViewController.swift */,
 				AD497C6B1E4AD41E00D532E9 /* Main.storyboard */,
+				AD497CA91E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png */,
+				AD497CA31E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png */,
 				AD497C971E4AD7BB00D532E9 /* MB_0011_info3 (1).png */,
 				AD497C6E1E4AD41E00D532E9 /* Assets.xcassets */,
+				AD497CA51E4D671A00D532E9 /* HomeVC.swift */,
+				AD497CA71E4D7BA000D532E9 /* TermServiceViewController.swift */,
 				AD497C701E4AD41E00D532E9 /* LaunchScreen.storyboard */,
 				AD497C9D1E4AFE9500D532E9 /* GoogleService-Info.plist */,
 				AD497C731E4AD41E00D532E9 /* Info.plist */,
@@ -295,7 +310,9 @@
 				AD497C981E4AD7BB00D532E9 /* MB_0011_info3 (1).png in Resources */,
 				AD497C721E4AD41E00D532E9 /* LaunchScreen.storyboard in Resources */,
 				AD497C6F1E4AD41E00D532E9 /* Assets.xcassets in Resources */,
+				AD497CAA1E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png in Resources */,
 				AD497C9E1E4AFE9500D532E9 /* GoogleService-Info.plist in Resources */,
+				AD497CA41E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png in Resources */,
 				AD497C6D1E4AD41E00D532E9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -461,9 +478,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD497CA81E4D7BA000D532E9 /* TermServiceViewController.swift in Sources */,
 				AD497C6A1E4AD41E00D532E9 /* ViewController.swift in Sources */,
+				AD497CA61E4D671A00D532E9 /* HomeVC.swift in Sources */,
 				AD497C961E4AD4BD00D532E9 /* AuthenticationViewController.swift in Sources */,
 				AD497C681E4AD41E00D532E9 /* AppDelegate.swift in Sources */,
+				AD497CA21E4D518800D532E9 /* InfoPopUpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
