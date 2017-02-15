@@ -8,6 +8,8 @@ target 'FoodSurplus' do
   # Pods for FoodSurplus
 pod 'Firebase/Core'
 pod 'Firebase/Auth’
+pod 'Firebase/Database'
+pod 'Firebase/Storage'
   target 'FoodSurplusTests' do
     inherit! :search_paths
     # Pods for testing

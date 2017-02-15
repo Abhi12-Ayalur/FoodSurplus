@@ -8,16 +8,19 @@
 import FirebaseAuth
 import Firebase
 import UIKit
+import FirebaseDatabase
 
-class TermServiceViewController: UIViewController {
+class TermServiceViewController: UIViewController, UIImagePickerControllerDelegate {
     
     //var acceptance = 0
     var email = ""
     var password = ""
+    
+    var ref = FIRDatabase.database().reference(fromURL: "https://foodsurplus-503b4.firebaseio.com/")
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+       
         // Do any additional setup after loading the view.
     }
 
@@ -35,11 +38,22 @@ class TermServiceViewController: UIViewController {
             (user, error) in
             if error == nil{
                 //print("sick")
-                self.performSegue(withIdentifier: "TermsToHome", sender: self)
+                let uid = (user?.uid)!
+                let values = ["email": self.email]
+                let usersReference = self.ref.child("users").child(uid)
+                usersReference.ref.updateChildValues(values, withCompletionBlock: { (error, ref)
+                    in
+                    if error != nil{
+                        print(error)
+                        return
+                    }
+                    
+                })
+                self.performSegue(withIdentifier: "TermsToProfileCreation", sender: self)
             }
             else{
                 print(error)
-                self.performSegue(withIdentifier: "TermToAuth", sender: self)
+                /*self.performSegue(withIdentifier: "TermToAuth", sender: self)*/
                 
             }
             
@@ -49,10 +63,11 @@ class TermServiceViewController: UIViewController {
     
     override func prepare(for segue: UIStoryboardSegue?, sender: Any?) {
         
-        if (segue?.identifier == "TermToAuth") {
+        if (segue?.identifier == "TermsToProfileCreation") {
             
             /* let auth = segue!.destination as! AuthenticationViewController
             auth.acceptance = acceptance */
+            let prof = segue!.destination as! ProfileCreationViewController
             
         }
         else if (segue?.identifier == "TermToHome"){
@@ -63,7 +78,6 @@ class TermServiceViewController: UIViewController {
     @IBAction func Decline(_ sender: Any) {
         self.performSegue(withIdentifier: "TermToAuth", sender: self)
     }
-    
     /*
     // MARK: - Navigation
 

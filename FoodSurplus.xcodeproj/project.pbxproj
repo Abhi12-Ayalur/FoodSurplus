@@ -26,6 +26,11 @@
 		AD497CA61E4D671A00D532E9 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CA51E4D671A00D532E9 /* HomeVC.swift */; };
 		AD497CA81E4D7BA000D532E9 /* TermServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CA71E4D7BA000D532E9 /* TermServiceViewController.swift */; };
 		AD497CAA1E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = AD497CA91E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png */; };
+		AD497CAC1E4EEA6F00D532E9 /* ProfileCreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CAB1E4EEA6F00D532E9 /* ProfileCreationViewController.swift */; };
+		AD497CB01E516F9000D532E9 /* proftab.png in Resources */ = {isa = PBXBuildFile; fileRef = AD497CAF1E516F9000D532E9 /* proftab.png */; };
+		AD497CB41E51720F00D532E9 /* HomeTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CB31E51720F00D532E9 /* HomeTabViewController.swift */; };
+		AD497CB61E51794100D532E9 /* ProfileMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CB51E51794100D532E9 /* ProfileMainViewController.swift */; };
+		AD497CBA1E541C8600D532E9 /* ProductAdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */; };
 		C48EA4B8BA229C1B05620015 /* Pods_FoodSurplusUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27582DBD1BCCAB645CC04D64 /* Pods_FoodSurplusUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -75,6 +80,11 @@
 		AD497CA51E4D671A00D532E9 /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		AD497CA71E4D7BA000D532E9 /* TermServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermServiceViewController.swift; sourceTree = "<group>"; };
 		AD497CA91E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-02-09 at 9.03.32 PM.png"; sourceTree = "<group>"; };
+		AD497CAB1E4EEA6F00D532E9 /* ProfileCreationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProfileCreationViewController.swift; path = ../ProfileCreationViewController.swift; sourceTree = "<group>"; };
+		AD497CAF1E516F9000D532E9 /* proftab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = proftab.png; sourceTree = "<group>"; };
+		AD497CB31E51720F00D532E9 /* HomeTabViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeTabViewController.swift; sourceTree = "<group>"; };
+		AD497CB51E51794100D532E9 /* ProfileMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileMainViewController.swift; sourceTree = "<group>"; };
+		AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductAdViewController.swift; sourceTree = "<group>"; };
 		AE5A34B3C3E09FDFA603DDEA /* Pods-FoodSurplusTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplusTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplusTests/Pods-FoodSurplusTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C8FE0F2F31B81F759A853904 /* Pods-FoodSurplus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplus.release.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplus/Pods-FoodSurplus.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -143,7 +153,12 @@
 			isa = PBXGroup;
 			children = (
 				AD497C671E4AD41E00D532E9 /* AppDelegate.swift */,
+				AD497CAB1E4EEA6F00D532E9 /* ProfileCreationViewController.swift */,
 				AD497C691E4AD41E00D532E9 /* ViewController.swift */,
+				AD497CAF1E516F9000D532E9 /* proftab.png */,
+				AD497CB31E51720F00D532E9 /* HomeTabViewController.swift */,
+				AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */,
+				AD497CB51E51794100D532E9 /* ProfileMainViewController.swift */,
 				AD497C951E4AD4BD00D532E9 /* AuthenticationViewController.swift */,
 				AD497CA11E4D518800D532E9 /* InfoPopUpViewController.swift */,
 				AD497C6B1E4AD41E00D532E9 /* Main.storyboard */,
@@ -311,6 +326,7 @@
 				AD497C721E4AD41E00D532E9 /* LaunchScreen.storyboard in Resources */,
 				AD497C6F1E4AD41E00D532E9 /* Assets.xcassets in Resources */,
 				AD497CAA1E4D813E00D532E9 /* Screen Shot 2017-02-09 at 9.03.32 PM.png in Resources */,
+				AD497CB01E516F9000D532E9 /* proftab.png in Resources */,
 				AD497C9E1E4AFE9500D532E9 /* GoogleService-Info.plist in Resources */,
 				AD497CA41E4D5D8700D532E9 /* Screen Shot 2017-02-09 at 6.31.02 PM.png in Resources */,
 				AD497C6D1E4AD41E00D532E9 /* Main.storyboard in Resources */,
@@ -480,10 +496,14 @@
 			files = (
 				AD497CA81E4D7BA000D532E9 /* TermServiceViewController.swift in Sources */,
 				AD497C6A1E4AD41E00D532E9 /* ViewController.swift in Sources */,
+				AD497CB61E51794100D532E9 /* ProfileMainViewController.swift in Sources */,
 				AD497CA61E4D671A00D532E9 /* HomeVC.swift in Sources */,
 				AD497C961E4AD4BD00D532E9 /* AuthenticationViewController.swift in Sources */,
 				AD497C681E4AD41E00D532E9 /* AppDelegate.swift in Sources */,
+				AD497CB41E51720F00D532E9 /* HomeTabViewController.swift in Sources */,
+				AD497CBA1E541C8600D532E9 /* ProductAdViewController.swift in Sources */,
 				AD497CA21E4D518800D532E9 /* InfoPopUpViewController.swift in Sources */,
+				AD497CAC1E4EEA6F00D532E9 /* ProfileCreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
