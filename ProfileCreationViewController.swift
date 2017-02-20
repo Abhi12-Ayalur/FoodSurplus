@@ -25,7 +25,7 @@ class ProfileCreationViewController: UIViewController, UIImagePickerControllerDe
         imagePicker.delegate = self
         let user = FIRAuth.auth()?.currentUser
         let uid = user?.uid
-        print(uid)
+        //print(uid)
 
         // Do any additional setup after loading the view.
     }
@@ -41,8 +41,8 @@ class ProfileCreationViewController: UIViewController, UIImagePickerControllerDe
         imagePicker.sourceType = .photoLibrary
         present(imagePicker, animated: true)
         {
-            
         }
+        
     }
     
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
