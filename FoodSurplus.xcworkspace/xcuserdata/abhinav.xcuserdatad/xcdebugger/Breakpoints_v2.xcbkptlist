@@ -273,5 +273,1311 @@
             endingLineNumber = "11">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po $arg1">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.90781"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "631">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.911458"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.245272"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2225">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.(viewDidLoad () -&gt; ()).(closure #3)"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.248245"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.ref.getter : __ObjC.FIRDatabaseReference"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783986.210737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783986.214508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783986.217979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783986.222661"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.localUserItems.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783744.689741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.localUserItems.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783744.69321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783744.696851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783744.699977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509783744.703676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.locationArray.getter : Swift.Array&lt;Any&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.933809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.locationArray.setter : Swift.Array&lt;Any&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.937034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.940905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.946108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "921">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.950019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.x.getter : __ObjC.CLLocationManager"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.961774"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.965125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "877">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.976959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "975">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.980884"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "877">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.zipcode.getter : Swift.String"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.990303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.zipcode.setter : Swift.String"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.994174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784140.997406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "793">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.000682"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "882">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.004619"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "793">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.ref.getter : __ObjC.FIRDatabaseReference"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.258406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.262014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.265497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784958.269225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.imageData.getter : Swift.Array&lt;Foundation.Data&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784060.127036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.imageData.setter : Swift.Array&lt;Foundation.Data&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784060.132175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784060.135595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "337">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784060.140674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "421">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784060.144517"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "337">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.meme.getter : Swift.String"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.046334"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.049108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "107">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.051674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784141.054988"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.storageRef.getter : __ObjC.FIRStorageReference"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784062.437568"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784062.44053"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784062.443444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784062.447768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "167">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509789307.471104"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "UserItemsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.memes.getter : Swift.String"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784226.274621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (style : __C.UITableViewStyle) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784226.277612"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "229">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FoodSurplus.UserItemsTableViewController"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784226.280766"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FoodSurplus.UserItemsTableViewController&gt;"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509784226.283008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509786482.541769"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1661">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodSurplus.UserItemsTableViewController.(viewDidLoad () -&gt; ()).(closure #2)"
+                  moduleName = "FoodSurplus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinav/Desktop/FoodSurplus/FoodSurplus/UserItemsTableViewController.swift"
+                  timestampString = "509786482.545959"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509871760.836914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodSurplus/UserItemsTableViewController.swift"
+            timestampString = "509872185.961723"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

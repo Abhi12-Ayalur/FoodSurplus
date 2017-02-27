@@ -32,6 +32,7 @@
 		AD497CB61E51794100D532E9 /* ProfileMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CB51E51794100D532E9 /* ProfileMainViewController.swift */; };
 		AD497CBA1E541C8600D532E9 /* ProductAdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */; };
 		AD497CBC1E5AA15900D532E9 /* UserItemsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD497CBB1E5AA15900D532E9 /* UserItemsTableViewController.swift */; };
+		AD7B2B8C1E62A4E40071FB31 /* UserItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7B2B8B1E62A4E40071FB31 /* UserItemViewController.swift */; };
 		C48EA4B8BA229C1B05620015 /* Pods_FoodSurplusUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 27582DBD1BCCAB645CC04D64 /* Pods_FoodSurplusUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -87,6 +88,7 @@
 		AD497CB51E51794100D532E9 /* ProfileMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileMainViewController.swift; sourceTree = "<group>"; };
 		AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductAdViewController.swift; sourceTree = "<group>"; };
 		AD497CBB1E5AA15900D532E9 /* UserItemsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserItemsTableViewController.swift; sourceTree = "<group>"; };
+		AD7B2B8B1E62A4E40071FB31 /* UserItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserItemViewController.swift; sourceTree = "<group>"; };
 		AE5A34B3C3E09FDFA603DDEA /* Pods-FoodSurplusTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplusTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplusTests/Pods-FoodSurplusTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C8FE0F2F31B81F759A853904 /* Pods-FoodSurplus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FoodSurplus.release.xcconfig"; path = "Pods/Target Support Files/Pods-FoodSurplus/Pods-FoodSurplus.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -157,6 +159,7 @@
 				AD497C671E4AD41E00D532E9 /* AppDelegate.swift */,
 				AD497CAB1E4EEA6F00D532E9 /* ProfileCreationViewController.swift */,
 				AD497C691E4AD41E00D532E9 /* ViewController.swift */,
+				AD7B2B8B1E62A4E40071FB31 /* UserItemViewController.swift */,
 				AD497CAF1E516F9000D532E9 /* proftab.png */,
 				AD497CB31E51720F00D532E9 /* HomeTabViewController.swift */,
 				AD497CB91E541C8600D532E9 /* ProductAdViewController.swift */,
@@ -505,6 +508,7 @@
 				AD497C961E4AD4BD00D532E9 /* AuthenticationViewController.swift in Sources */,
 				AD497C681E4AD41E00D532E9 /* AppDelegate.swift in Sources */,
 				AD497CB41E51720F00D532E9 /* HomeTabViewController.swift in Sources */,
+				AD7B2B8C1E62A4E40071FB31 /* UserItemViewController.swift in Sources */,
 				AD497CBA1E541C8600D532E9 /* ProductAdViewController.swift in Sources */,
 				AD497CA21E4D518800D532E9 /* InfoPopUpViewController.swift in Sources */,
 				AD497CAC1E4EEA6F00D532E9 /* ProfileCreationViewController.swift in Sources */,

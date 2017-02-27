@@ -85,7 +85,7 @@ class ProfileCreationViewController: UIViewController, UIImagePickerControllerDe
         let storageRef = FIRStorage.storage().reference().child("users").child(uid!).child("profile.jpg")
         let profPicMetaData = FIRStorageMetadata()
         profPicMetaData.contentType = "image/jpeg"
-        let profileUpload = storageRef.put(profJPG as Data, metadata: profPicMetaData) {
+        storageRef.put(profJPG as Data, metadata: profPicMetaData) {
             (metadata, error) in
             if error != nil {
                 print("error")
@@ -93,7 +93,7 @@ class ProfileCreationViewController: UIViewController, UIImagePickerControllerDe
             }
         }
         
-        let imagesRef = storageRef.child("users").child(uid!)
+        //let imagesRef = storageRef.child("users").child(uid!)
         
         let values = ["username": Username.text!, "firstname": FirstName.text!, "lastname": LastName.text!, "address": Address.text!, "city": City.text!, "state": State.text!, "zipcode": ZipCode.text!] as [String : Any]
         let usersReference = self.ref.child("users").child(uid!)

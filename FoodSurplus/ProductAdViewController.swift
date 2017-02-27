@@ -26,7 +26,7 @@ class ProductAdViewController: UIViewController, UIImagePickerControllerDelegate
     var city: String = ""
     var state: String = ""
     var zipcode: String = ""
-    var locationArray: Array<Any> = []
+    var locationArray: Array<Any> = ["",""]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -45,7 +45,8 @@ class ProductAdViewController: UIViewController, UIImagePickerControllerDelegate
             }
             
         })
-        let fullAddress = address + " " + city + " " + state
+        let fullAddress = "United States, \(city), \(address)"
+
         encode.geocodeAddressString(fullAddress, completionHandler: {(placemarks, error) -> Void in
             if((error) != nil){
                 print("Error", error)
@@ -102,7 +103,12 @@ class ProductAdViewController: UIViewController, UIImagePickerControllerDelegate
         let user = FIRAuth.auth()?.currentUser
         let uid = user?.uid
         let itemName = ItemName.text!
-        let imageName = itemName + ".jpg"
+        
+        
+        let locationPart = self.locationArray[0]
+        let locationPart2 = self.locationArray[1]
+        let locationString = "\(locationPart)\(locationPart2)"
+        let imageName = itemName + locationString + ".jpg"
         let infoStorage: Array = [itemName, ItemDescription.text!, locationArray, uid] as [Any]
         let itemValues = [itemName: infoStorage] as [String : Any]
         self.ref.child("items").updateChildValues(itemValues, withCompletionBlock: { (error, ref)
@@ -121,19 +127,26 @@ class ProductAdViewController: UIViewController, UIImagePickerControllerDelegate
         })
 
         let storageRef = FIRStorage.storage().reference().child("userItems").child(uid!).child(imageName)
-        let locationPart = locationArray[0] as! String
-        let locationPart2 = locationArray[1] as! String
-        let locationString = locationPart + locationPart2
-        let secondStorageRef = FIRStorage.storage().reference().child("items").child(itemName).child(locationString)
+        
+        let secondStorageRef = FIRStorage.storage().reference().child("items").child(locationString).child(imageName)
         let itemPicMetaData = FIRStorageMetadata()
         itemPicMetaData.contentType = "image/jpeg"
-        let profileUpload = storageRef.put(itemJPG as Data, metadata: itemPicMetaData) {
+        /* let productUpload = storageRef.put(itemJPG as Data, metadata: itemPicMetaData) {
+            (metadata, error) in
+            if error != nil {
+                print("error")
+                return
+            }
+        } */
+        let productLocationUpload = secondStorageRef.put(itemJPG as Data, metadata: itemPicMetaData) {
             (metadata, error) in
             if error != nil {
                 print("error")
                 return
             }
         }
+        print("addition of item is success")
+
         performSegue(withIdentifier: "AddedProduct", sender: self)
     }
     

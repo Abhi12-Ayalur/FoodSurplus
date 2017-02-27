@@ -94,8 +94,7 @@ class ProfileMainViewController: UIViewController {
         })
         let storageRef = FIRStorage.storage()
         let storageString = "users/" + userID! + "/profile.jpg"
-        let pathReference = storageRef.reference(withPath: storageString)
-        let islandRef = storageRef.reference().child(storageString)
+        let islandRef = storageRef.reference().child("users").child(userID!).child("profile.jpg")
         
         // Download in memory with a maximum allowed size of 1MB (1 * 1024 * 1024 bytes)
         islandRef.data(withMaxSize: 1 * 2048 * 2048) { data, error in
